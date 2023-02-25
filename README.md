@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-k0&label=Profile%20views&color=0e75b6&style=flat" alt="dev-k0" /> </p>
 
-- 🔭 I’m currently working on **Insurance System**
+- 🔭 I’m currently working on **System for facilitating patients’ appointments that aims to minimize their waiting time by logining to the system and measuring vitals signs.**
 
-- 🌱 I’m currently learning **React, Machin learning, Mobile development**
+- 🌱 I’m currently learning **React, Mobile development**
 
 - 👨‍💻 All of my projects are available at ["Coming Soon"]("Coming Soon")
 
-- 💬 Ask me about **Flutter, C++**
+- 💬 Ask me about **Flutter, C++, JAVA**
 
 - 📫 How to reach me **dev.y2mi@gmail.com**
 
