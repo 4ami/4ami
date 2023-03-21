@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-k0&label=Profile%20views&color=0e75b6&style=flat" alt="dev-k0" /> </p>
 
-- 🔭 I’m currently working on **System for facilitating patients’ appointments that aims to minimize their waiting time by logining to the system and measuring vitals signs.**
+- 🔭 I’m currently working on **Fast-Flow which is a contact-less vital signs monitor**
 
 - 🌱 I’m currently learning **React, Mobile development**
 
