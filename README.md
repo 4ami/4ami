@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-k0&label=Profile%20views&color=0e75b6&style=flat" alt="dev-k0" /> </p>
 
-- 🔭 I’m currently working on **Mobile-Application: Legainaha**
+- 🔭 I’m currently working on [Full-Stack Mobile App + Full-Stack WEB APP](:P)
 
-- 🌱 I’m currently learning **React, Mobile development**
+- 🌱 I’m currently learning **Nest.js, Vue.js, dotnet**
 
-- 👨‍💻 All of my projects are available at ["Coming Soon"]("Coming Soon")
+- 👨‍💻 All of my projects are available at [wait for it](wait for it)
 
-- 💬 Ask me about **Flutter, C++, JAVA**
+- 📝 I regularly write articles on [x.com/khaledhokash](x.com/khaledhokash)
+
+- 💬 Ask me about **Flutter, node.js, express**
 
 - 📫 How to reach me **dev.y2mi@gmail.com**
 
-- 📄 Know about my experiences ["Soon"]("Soon")
-
-- ⚡ Fun fact **I find silutions in my dreams :D**
+- 📄 Know about my experiences [soon](soon)
 
 <br/>  
 
