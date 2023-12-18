@@ -65,4 +65,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-k0&show_icons=true&locale=en" alt="dev-k0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-k0&" alt="dev-k0" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-k0&" alt="dev-k0" /></p>
