@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi%F0%9F%91%8B.+.+.++I'm+Khalid" alt="Typing SVG" /></a>
 </h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Flutter+Developer" alt="Typing SVG" /></a>
+  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Flutter+Developer" alt="Typing SVG" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-k0&label=Profile%20views&color=0e75b6&style=flat" alt="dev-k0" /> </p>
