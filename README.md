@@ -10,17 +10,26 @@
 
 ## 👋 About Me
 
-I'm a software engineer passionate about building systems that solve real-world problems at scale. From Flutter apps to full ERP platforms, I design solutions that are **modular, performant, and production-ready**.
+I'm a software engineer with a growing specialization in **penetration testing** and **digital forensics**. I design systems that are not only **modular and production-ready**, but also resilient against real-world threats.
 
-I focus on:
+### 🧠 What I Build
 
-- 🧱 Feature-driven architecture (**Flutter**, **FastAPI**)  
-- ⚙️ CI/CD automation using **GitHub Actions**  
-- 📦 Secure, scalable backend systems (**PostgreSQL**, **MongoDB**)  
-- 🧠 AI/ML integration for **fraud detection** & **smart search**  
-- 🌐 Offline-first desktop apps & **distributed data sync**
+- 🧱 Feature-driven apps with **Flutter** & **FastAPI**  
+- ⚙️ CI/CD pipelines with **GitHub Actions**  
+- 📦 Scalable backend systems (**PostgreSQL**, **MongoDB**)  
+- 🧠 AI integration for **fraud detection**, **threat analysis**, and **smart search**  
+- 🌐 Offline-first desktop apps with **secure data sync**
 
-My work spans industries — **e-commerce, automotive, cybersecurity, and smart city systems** — with a strong focus on **developer experience**, **clean architecture**, and **practical DevOps**.
+### 🛡️ Cybersecurity Track
+
+I'm actively building my expertise in offensive and defensive security with a career goal in **advanced penetration testing**, **reverse engineering**, and **digital forensics**.
+
+Currently pursuing:
+- 🎯 **eJPT** → **Security+** → **eMAPT** → **eCPPT** → **eCDFP**
+
+I’m passionate about applying these skills to secure critical systems in **finance**, **e-commerce**, and **national infrastructure**.
+
+---
  
 ## <br/>
 
